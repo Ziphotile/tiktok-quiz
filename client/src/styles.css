@@ -1,0 +1,4 @@
+
+body { background:#0b0b0b; color:#eee; font-family: Inter, system-ui; }
+button { background:#fff; border:none; padding:8px 12px; border-radius:8px; cursor:pointer; }
+input { padding:8px; border-radius:8px; border:1px solid #333; background:#111; color:#eee; }
